@@ -1,7 +1,7 @@
 {
   "dataset": "Mainland Pain Management Associates - Knowledge Base",
-  "version": "1.0",
-  "last_updated": "2026-04-08",
+  "version": "2.0",
+  "last_updated": "2026-04-09",
   "clinic": {
     "name": "Mainland Pain Management Associates",
     "doctor": "Dr. Dipty Mangla",
@@ -17,92 +17,227 @@
     {
       "id": "about_clinic",
       "title": "About Mainland Pain Management Associates",
-      "content": "Mainland Pain Management Associates is a leading pain management clinic located in Linwood, New Jersey. Led by Dr. Dipty Mangla, the clinic specializes in diagnosing and treating a wide range of chronic and acute pain conditions. The clinic offers state-of-the-art interventional pain management procedures designed to reduce pain and improve quality of life. Patients can schedule appointments online through the DrChrono scheduling system or by calling (609) 788-3625."
+      "content": "Mainland Pain Management Associates is a leading pain management clinic located in Linwood, New Jersey. Led by Dr. Dipty Mangla, the clinic specializes in diagnosing and treating a wide range of chronic and acute pain conditions. The clinic offers state-of-the-art interventional pain management procedures designed to reduce pain and improve quality of life. Dr. Mangla and the team are committed to personalized, compassionate care for every patient."
     },
     {
       "id": "about_doctor",
       "title": "About Dr. Dipty Mangla",
-      "content": "Dr. Dipty Mangla is a highly experienced and board-certified Pain Management Specialist and Anesthesiologist based in Linwood, New Jersey. Dr. Mangla specializes in interventional pain management techniques and is dedicated to providing compassionate, patient-centered care. With extensive training in anesthesiology and pain medicine, Dr. Mangla offers advanced procedures for patients suffering from back pain, neck pain, headaches, abdominal pain, pelvic pain, and postoperative pain. Dr. Mangla is recognized as one of the top pain management physicians in New Jersey."
-    },
-    {
-      "id": "treatments_back_pain",
-      "title": "Back Pain Treatments",
-      "content": "Mainland Pain Management Associates offers comprehensive treatment options for back pain. Back pain is one of the most common conditions treated at the clinic. Available treatments for back pain include: Epidural Steroid Injections to reduce inflammation around the spinal nerves; Selective Nerve Root Block to target specific nerve roots causing pain; Radiofrequency Ablation (RFA) to provide long-term pain relief by disrupting nerve signals; Sacroiliac Joint Injections to treat pain originating from the sacroiliac joint; Vertiflex procedure for lumbar spinal stenosis; Spinal Cord Stimulator implantation for chronic back pain; Kyphoplasty for vertebral compression fractures; and Tumour Ablations for pain caused by tumors."
-    },
-    {
-      "id": "treatments_neck_head_pain",
-      "title": "Neck and Head Pain Treatments",
-      "content": "The clinic provides specialized treatments for neck and head pain including chronic headaches and migraines. Available treatments include: Epidural Steroid Injections for cervical spine pain; Radiofrequency Ablation (RFA) for facet joint pain in the neck; Botox Injections for chronic migraines and tension headaches; and Trigger Point Injections for muscle-related neck and head pain."
-    },
-    {
-      "id": "treatments_abdominal_pain",
-      "title": "Abdominal Pain Treatments",
-      "content": "Mainland Pain Management Associates offers interventional treatments for chronic abdominal pain. Available procedures include: TAP Block (Transversus Abdominis Plane Block) for abdominal wall pain; Celiac Plexus Block for upper abdominal pain often associated with pancreatic conditions; Hypogastric Block for lower abdominal and pelvic pain; Ganglion Impar Block for perineal and coccygeal pain; and Nerve Blocks for various abdominal pain conditions."
-    },
-    {
-      "id": "treatments_pelvic_pain",
-      "title": "Pelvic Pain Treatments",
-      "content": "The clinic offers specialized treatments for chronic pelvic pain in both men and women. Available treatments include: Pudendal Nerve Blocks for pudendal neuralgia; Genitofemoral and Ilioinguinal Nerve Blocks for groin and pelvic pain; Coccygeal Nerve Block for tailbone (coccyx) pain; Radiofrequency Ablation for pelvic pain; and Peripheral Nerve Stimulators for chronic pelvic pain."
-    },
-    {
-      "id": "treatments_postoperative_pain",
-      "title": "Postoperative Pain Treatments",
-      "content": "The clinic provides treatment for chronic pain following surgery. Available treatments include: Neuroma Injections for painful neuromas that can develop after surgery or injury. The clinic helps patients manage and reduce pain that persists after surgical procedures."
-    },
-    {
-      "id": "procedure_epidural",
-      "title": "Epidural Steroid Injections",
-      "content": "Epidural steroid injections are one of the most commonly performed pain management procedures at Mainland Pain Management Associates. The injection delivers anti-inflammatory medication (corticosteroid) directly into the epidural space of the spine, near the affected nerve roots. This helps reduce inflammation and relieve pain caused by conditions such as herniated discs, spinal stenosis, and radiculopathy. The procedure is minimally invasive and is typically performed with fluoroscopic (X-ray) guidance to ensure accurate needle placement. Epidural injections can be used to treat both cervical (neck) and lumbar (lower back) pain."
-    },
-    {
-      "id": "procedure_radiofrequency_ablation",
-      "title": "Radiofrequency Ablation (RFA)",
-      "content": "Radiofrequency Ablation (RFA) is an advanced minimally invasive procedure offered at Mainland Pain Management Associates. RFA uses radiofrequency energy to heat and disrupt the nerve fibers responsible for transmitting pain signals, providing long-lasting pain relief. It is commonly used for facet joint pain in the spine, sacroiliac joint pain, and certain types of pelvic pain. The effects of RFA can last from 6 months to 2 years or more. RFA is performed under fluoroscopic guidance and is an outpatient procedure."
-    },
-    {
-      "id": "procedure_spinal_cord_stimulator",
-      "title": "Spinal Cord Stimulator",
-      "content": "Spinal Cord Stimulation (SCS) is an advanced pain management therapy offered at Mainland Pain Management Associates for patients with chronic, hard-to-treat pain. The device delivers mild electrical impulses to the spinal cord, interrupting pain signals before they reach the brain. SCS is used for conditions including failed back surgery syndrome, complex regional pain syndrome (CRPS), chronic leg and arm pain, and neuropathic pain. The procedure involves a trial period followed by permanent implantation if successful. It is considered when other treatments have not provided adequate relief."
-    },
-    {
-      "id": "procedure_vertiflex",
-      "title": "Vertiflex Procedure",
-      "content": "The Vertiflex Superion procedure is a minimally invasive treatment offered at Mainland Pain Management Associates for lumbar spinal stenosis. Lumbar spinal stenosis causes narrowing of the spinal canal and can lead to leg pain, numbness, and difficulty walking. The Vertiflex implant is placed between the spinous processes of the vertebrae to maintain the space in the spinal canal and relieve pressure on the nerves. It is an outpatient procedure that does not require general anesthesia and has a quick recovery time."
-    },
-    {
-      "id": "procedure_kyphoplasty",
-      "title": "Kyphoplasty",
-      "content": "Kyphoplasty is a minimally invasive procedure performed at Mainland Pain Management Associates to treat vertebral compression fractures, which are commonly caused by osteoporosis, cancer, or trauma. During the procedure, a balloon is inserted into the fractured vertebra and inflated to restore the height of the vertebra, and then bone cement is injected to stabilize the fracture. Kyphoplasty provides rapid pain relief and helps restore vertebral height and spinal alignment. It is typically performed as an outpatient procedure."
-    },
-    {
-      "id": "procedure_peripheral_nerve_stimulator",
-      "title": "Peripheral Nerve Stimulator",
-      "content": "Peripheral Nerve Stimulation (PNS) is an innovative pain management therapy available at Mainland Pain Management Associates. It involves placing a small electrode near a peripheral nerve to deliver mild electrical stimulation that blocks or modifies pain signals. PNS is used for conditions including occipital neuralgia, peripheral neuropathy, complex regional pain syndrome (CRPS), and chronic pelvic pain. It is a minimally invasive option for patients who have not responded to other treatments."
-    },
-    {
-      "id": "procedure_tumour_ablations",
-      "title": "Tumour Ablations",
-      "content": "Mainland Pain Management Associates offers tumour ablation procedures for patients experiencing pain caused by tumors. Ablation techniques use heat or cold energy to destroy tumor tissue and relieve pain. This is particularly beneficial for patients with metastatic cancer causing bone pain or other tumor-related pain that is difficult to control with medications alone. The procedure is minimally invasive and can be performed under imaging guidance."
-    },
-    {
-      "id": "procedure_selective_nerve_root_block",
-      "title": "Selective Nerve Root Block",
-      "content": "A Selective Nerve Root Block (SNRB) is a diagnostic and therapeutic injection performed at Mainland Pain Management Associates. It involves injecting a local anesthetic and steroid around a specific nerve root in the spine to reduce inflammation and relieve pain. SNRBs are used to identify which nerve root is causing pain (diagnostic) and to provide pain relief (therapeutic). This procedure is commonly used for patients with radicular pain (pain radiating down the arm or leg) due to disc herniation or spinal stenosis."
-    },
-    {
-      "id": "procedure_sacroiliac_joint_injections",
-      "title": "Sacroiliac Joint Injections",
-      "content": "Sacroiliac (SI) joint injections are performed at Mainland Pain Management Associates to diagnose and treat pain originating from the sacroiliac joints, which connect the spine to the pelvis. SI joint pain can cause lower back pain, hip pain, and buttock pain. The injection delivers anti-inflammatory medication directly into the SI joint under fluoroscopic guidance. SI joint injections can provide significant pain relief and improved function."
+      "content": "Dr. Dipty Mangla is a board-certified pain management specialist and anesthesiologist practicing at Mainland Pain Management Associates in Linwood, New Jersey. Dr. Mangla is highly trained in interventional pain management techniques and is dedicated to helping patients reduce pain and regain their quality of life. Dr. Mangla treats a wide range of conditions including back pain, neck pain, headaches, abdominal pain, pelvic pain, and postoperative pain. Patients trust Dr. Mangla for expert, evidence-based, minimally invasive pain relief."
     },
     {
       "id": "appointments",
       "title": "Scheduling an Appointment",
-      "content": "Patients can schedule an appointment with Dr. Dipty Mangla at Mainland Pain Management Associates in several ways. Online booking is available through the DrChrono scheduling system at https://drchrono.com/scheduling/offices/dGhpcyBpcyAxNiBjaGFyc8n9rf8yoECPcWT6LluiJUQ= . Patients can also call the clinic directly at (609) 788-3625 or send an email to mainlandpain@mainland-pain.com. The clinic is located in Linwood, New Jersey. For directions visit the clinic on Google Maps."
+      "content": "Patients can schedule an appointment with Dr. Dipty Mangla at Mainland Pain Management Associates in several ways. Online booking is available through the DrChrono scheduling system at https://drchrono.com/scheduling/offices/dGhpcyBpcyAxNiBjaGFyc8n9rf8yoECPcWT6LluiJUQ=. Patients can also call the clinic directly at (609) 788-3625 or send an email to mainlandpain@mainland-pain.com. The clinic is located in Linwood, New Jersey."
     },
     {
       "id": "contact",
       "title": "Contact Information",
-      "content": "Mainland Pain Management Associates is located in Linwood, New Jersey. Contact details: Phone: (609) 788-3625. Email: mainlandpain@mainland-pain.com. Website: https://www.mainland-pain-management.com. To schedule an appointment online visit: https://drchrono.com/scheduling/offices/dGhpcyBpcyAxNiBjaGFyc8n9rf8yoECPcWT6LluiJUQ= . For directions use Google Maps to find Mainland Pain Management Associates in Linwood, NJ."
+      "content": "Mainland Pain Management Associates is located in Linwood, New Jersey. Phone: (609) 788-3625. Email: mainlandpain@mainland-pain.com. Website: https://www.mainland-pain-management.com. To schedule an appointment online visit: https://drchrono.com/scheduling/offices/dGhpcyBpcyAxNiBjaGFyc8n9rf8yoECPcWT6LluiJUQ=."
+    },
+    {
+      "id": "pain_types_overview",
+      "title": "Types of Pain",
+      "content": "Pain is classified into several types depending on its origin, duration, and underlying cause. Acute pain comes on suddenly and is usually caused by a specific injury or illness. It typically resolves as the underlying cause heals. Chronic pain lasts three months or longer and may persist even after the original injury has healed. Chronic pain can significantly affect a person's daily life, sleep, mood, and mental health. Nociceptive pain results from actual or potential tissue damage and is the most common type. It is further divided into somatic pain (from skin, muscles, and joints) and visceral pain (from internal organs). Neuropathic pain is caused by damage or dysfunction of the nervous system itself, producing sensations such as burning, shooting, or stabbing. Inflammatory pain is associated with tissue inflammation and immune system activity. Mixed pain involves more than one type and is common in complex conditions. A pain management specialist evaluates and diagnoses the specific type of pain to recommend the most appropriate treatment."
+    },
+    {
+      "id": "chronic_pain",
+      "title": "Chronic Pain",
+      "content": "Chronic pain is defined as pain that persists for more than three months. It is one of the most common medical conditions in the United States, affecting tens of millions of people. Chronic pain can arise from an initial injury, an ongoing disease, or it may have no identifiable cause. Common sources include arthritis, nerve damage, failed surgeries, fibromyalgia, and degenerative conditions of the spine. Chronic pain affects not only physical function but also mental health, leading to anxiety, depression, and sleep disturbances. Treatment of chronic pain requires a comprehensive approach that may include interventional procedures, medications, physical therapy, and psychological support. At Mainland Pain Management Associates, Dr. Mangla creates individualized treatment plans to address the root cause of chronic pain and improve overall quality of life."
+    },
+    {
+      "id": "back_pain",
+      "title": "Back Pain",
+      "content": "Back pain is one of the most common reasons people seek medical care. It can affect the lower back (lumbar spine), middle back (thoracic spine), or upper back and neck (cervical spine). Causes include muscle strains, herniated or bulging discs, degenerative disc disease, spinal stenosis, arthritis, scoliosis, and nerve compression. Symptoms range from a dull ache to sharp stabbing pain, and may include radiating pain down the legs (sciatica) or arms. Risk factors include poor posture, obesity, sedentary lifestyle, aging, and heavy physical labor. Treatment options at Mainland Pain Management Associates include epidural steroid injections, radiofrequency ablation, spinal cord stimulation, nerve blocks, and minimally invasive procedures designed to relieve pain and restore function without major surgery."
+    },
+    {
+      "id": "neck_pain",
+      "title": "Neck and Head Pain",
+      "content": "Neck pain affects the cervical spine and the surrounding muscles and nerves. It may be caused by muscle strain, poor posture, degenerative disc disease, cervical herniated discs, cervical spinal stenosis, or injury such as whiplash. Neck pain can radiate into the shoulders, arms, and hands, causing numbness or tingling. Head pain including chronic headaches, migraines, and occipital neuralgia may also originate from cervical spine problems. Dr. Mangla treats neck and head pain using targeted interventions such as cervical epidural injections, facet joint injections, medial branch blocks, radiofrequency ablation, and occipital nerve blocks. These procedures aim to reduce inflammation, block pain signals, and restore normal function."
+    },
+    {
+      "id": "abdominal_pain",
+      "title": "Abdominal Pain",
+      "content": "Chronic abdominal pain can be caused by a variety of conditions including pancreatitis, irritable bowel syndrome, Crohn's disease, adhesions, abdominal wall pain, and nerve damage. Visceral pain from the abdominal organs can be difficult to localize and is often described as cramping, aching, or pressure. Abdominal pain that does not respond to standard treatments may benefit from interventional pain management. Dr. Mangla offers celiac plexus blocks and other nerve block procedures to reduce chronic abdominal pain, particularly in patients with cancer-related pain or chronic pancreatitis. These procedures interrupt pain signals from the affected organs and can dramatically improve quality of life."
+    },
+    {
+      "id": "pelvic_pain",
+      "title": "Pelvic Pain",
+      "content": "Chronic pelvic pain is a complex condition that can have gynecological, urological, gastrointestinal, musculoskeletal, or neurological causes. Common conditions include endometriosis, interstitial cystitis, pudendal neuralgia, pelvic floor dysfunction, and post-surgical adhesions. Chronic pelvic pain significantly affects quality of life, relationships, and mental health. At Mainland Pain Management Associates, treatment options may include superior hypogastric plexus blocks, pudendal nerve blocks, ganglion impar blocks, and other targeted injections designed to reduce nerve-driven pain signals in the pelvis and provide lasting relief."
+    },
+    {
+      "id": "postoperative_pain",
+      "title": "Postoperative Pain",
+      "content": "Postoperative pain is pain that persists after a surgical procedure has healed. It can result from nerve damage during surgery, scar tissue formation, or sensitization of the nervous system. Common examples include failed back surgery syndrome, post-thoracotomy pain, post-mastectomy pain, and post-hernia repair pain. Persistent postoperative pain can be debilitating and may require specialized pain management beyond standard medications. Dr. Mangla offers interventional options such as spinal cord stimulation, nerve blocks, and other minimally invasive procedures to help patients who continue to suffer pain after surgery."
+    },
+    {
+      "id": "sciatica",
+      "title": "Sciatica",
+      "content": "Sciatica refers to pain that radiates along the path of the sciatic nerve, which runs from the lower back through the hips and buttocks and down each leg. Sciatica is usually caused by a herniated disc, bone spur, or spinal stenosis compressing part of the nerve. Symptoms include sharp, burning, or shooting pain down one leg, often accompanied by numbness, tingling, or muscle weakness. Most cases of sciatica improve with conservative treatment, but persistent or severe sciatica may benefit from epidural steroid injections, nerve root blocks, or spinal cord stimulation to relieve pressure and reduce inflammation."
+    },
+    {
+      "id": "arthritis_pain",
+      "title": "Arthritis and Joint Pain",
+      "content": "Arthritis is a broad term covering more than 100 conditions that cause joint pain and inflammation. Osteoarthritis, the most common form, results from the breakdown of cartilage in joints. Rheumatoid arthritis is an autoimmune condition that attacks joint linings. Arthritis can affect the spine, hips, knees, hands, shoulders, and other joints, causing pain, stiffness, swelling, and reduced range of motion. Pain management for arthritis includes joint injections with corticosteroids or hyaluronic acid, radiofrequency ablation of sensory nerves around joints, and nerve block procedures. These treatments can reduce inflammation and pain when medications and physical therapy are not sufficient."
+    },
+    {
+      "id": "neuropathic_pain",
+      "title": "Neuropathic Pain and Nerve Pain",
+      "content": "Neuropathic pain is caused by damage or dysfunction of the nervous system. It produces distinctive sensations including burning, electric shock-like pain, hypersensitivity to touch, and numbness. Common causes include diabetic neuropathy, postherpetic neuralgia (from shingles), complex regional pain syndrome (CRPS), chemotherapy-induced neuropathy, and nerve injuries. Neuropathic pain is often difficult to treat with standard pain medications. Interventional options offered at Mainland Pain Management Associates include spinal cord stimulation, peripheral nerve stimulation, nerve blocks, and other targeted procedures that can dramatically reduce neuropathic symptoms and restore function."
+    },
+    {
+      "id": "fibromyalgia",
+      "title": "Fibromyalgia",
+      "content": "Fibromyalgia is a chronic condition characterized by widespread musculoskeletal pain, fatigue, sleep disturbances, and cognitive difficulties often described as fibro fog. The exact cause is not fully understood, but it is thought to involve abnormal pain processing in the central nervous system, making patients hypersensitive to pain. Fibromyalgia affects more women than men and often coexists with other conditions such as irritable bowel syndrome, anxiety, and depression. Pain management for fibromyalgia is multidisciplinary and may include medications, physical therapy, cognitive behavioral therapy, and interventional procedures to address specific areas of severe pain."
+    },
+    {
+      "id": "headaches_migraines",
+      "title": "Headaches and Migraines",
+      "content": "Headaches are one of the most common pain conditions. Tension headaches cause a dull, aching pressure around the head. Migraines are intense, often one-sided headaches associated with nausea, vomiting, and sensitivity to light and sound. Cluster headaches cause severe pain around one eye and occur in cyclical patterns. Occipital neuralgia is a condition involving irritation of the occipital nerves at the back of the head, causing sharp, shooting pain. Chronic headaches and migraines that do not respond to medications may benefit from occipital nerve blocks, trigger point injections, Botox injections, or nerve stimulation procedures offered at Mainland Pain Management Associates."
+    },
+    {
+      "id": "cancer_pain",
+      "title": "Cancer Pain",
+      "content": "Cancer pain can result from the tumor pressing on nerves or organs, or from cancer treatments such as surgery, chemotherapy, and radiation. It is one of the most challenging types of pain to manage and can significantly affect quality of life. Pain management specialists play a critical role in the palliative care of cancer patients. Interventional procedures such as celiac plexus blocks, superior hypogastric plexus blocks, intrathecal drug delivery systems, and tumor ablation procedures can provide effective relief when standard medications are insufficient. Dr. Mangla works compassionately with cancer patients to reduce pain and maximize comfort and function."
+    },
+    {
+      "id": "crps",
+      "title": "Complex Regional Pain Syndrome (CRPS)",
+      "content": "Complex Regional Pain Syndrome (CRPS) is a chronic pain condition that most often affects a limb after an injury, surgery, stroke, or heart attack. It is characterized by prolonged burning pain, sensitivity, swelling, skin color changes, and changes in skin temperature and texture. CRPS is thought to result from dysfunction in the peripheral and central nervous systems. It is classified as CRPS Type I (no confirmed nerve injury) and CRPS Type II (with confirmed nerve injury). Treatment options include spinal cord stimulation, sympathetic nerve blocks (such as stellate ganglion block or lumbar sympathetic block), physical therapy, and medications. Early diagnosis and treatment are important for best outcomes."
+    },
+    {
+      "id": "spinal_stenosis",
+      "title": "Spinal Stenosis",
+      "content": "Spinal stenosis is a narrowing of the spinal canal that puts pressure on the spinal cord and nerve roots. It most commonly occurs in the lumbar (lower back) and cervical (neck) regions. Symptoms include pain, numbness, tingling, and weakness in the legs or arms, often worsening with walking or standing and improving with sitting or leaning forward. Lumbar spinal stenosis can cause neurogenic claudication, where patients must stop walking due to pain and leg weakness. Treatment options include epidural steroid injections to reduce inflammation and the Vertiflex procedure (interspinous spacer), which is a minimally invasive implant that relieves nerve compression in the lower back."
+    },
+    {
+      "id": "herniated_disc",
+      "title": "Herniated Disc",
+      "content": "A herniated disc, also called a slipped or ruptured disc, occurs when the soft inner gel of an intervertebral disc pushes through a tear in its outer layer. This can irritate or compress nearby nerves, causing pain, numbness, and weakness. Herniated discs most commonly occur in the lumbar spine, causing lower back pain and sciatica, or in the cervical spine, causing neck pain and arm symptoms. Most herniated discs improve with conservative care, but persistent or severe cases may benefit from epidural steroid injections to reduce inflammation and nerve irritation, helping patients avoid surgery."
+    },
+    {
+      "id": "degenerative_disc_disease",
+      "title": "Degenerative Disc Disease",
+      "content": "Degenerative disc disease refers to the natural breakdown of spinal discs that occurs with aging. The discs lose hydration and height over time, reducing their ability to cushion the vertebrae. This can lead to chronic back or neck pain, bone spurs, and nerve compression. Despite the name, it is not technically a disease but a degenerative process. Symptoms include chronic aching back or neck pain, pain that worsens with bending, twisting, or sitting for long periods, and pain that radiates into the legs or arms. Pain management options include epidural steroid injections, facet joint injections, medial branch blocks, radiofrequency ablation, and spinal cord stimulation."
+    },
+    {
+      "id": "si_joint_pain",
+      "title": "Sacroiliac (SI) Joint Pain",
+      "content": "The sacroiliac (SI) joints connect the sacrum (the triangular bone at the base of the spine) to the iliac bones of the pelvis. SI joint dysfunction can cause significant lower back, hip, and buttock pain, often mimicking disc herniation or sciatica. It may be caused by trauma, pregnancy, arthritis, or uneven leg length. Diagnosis can be confirmed with a diagnostic SI joint injection. Treatment options include SI joint steroid injections to reduce inflammation and pain, radiofrequency ablation of the SI joint nerves for longer-lasting relief, and in some cases, SI joint fusion."
+    },
+    {
+      "id": "procedure_epidural",
+      "title": "Epidural Steroid Injections",
+      "content": "Epidural steroid injections (ESIs) are one of the most commonly performed procedures in pain management. They deliver anti-inflammatory corticosteroid medication directly into the epidural space surrounding the spinal cord and nerve roots. ESIs are used to treat radiculopathy (nerve root irritation), herniated discs, spinal stenosis, and degenerative disc disease. The injection reduces inflammation around the affected nerves, providing pain relief that can last from weeks to months. The procedure is performed under fluoroscopic (X-ray) or ultrasound guidance to ensure precise delivery. Approaches include interlaminar, transforaminal, and caudal epidural injections depending on the target area. Most patients tolerate the procedure well with minimal downtime."
+    },
+    {
+      "id": "procedure_rfa",
+      "title": "Radiofrequency Ablation (RFA)",
+      "content": "Radiofrequency ablation (RFA) is a minimally invasive procedure that uses heat generated by radiofrequency energy to disrupt the nerve fibers that carry pain signals. It is used to treat chronic pain from facet joints in the spine, sacroiliac joints, and knee joints. Before RFA, diagnostic medial branch blocks are performed to confirm that the targeted nerves are the source of pain. During the procedure, a needle electrode is placed near the target nerve under fluoroscopic guidance, and radiofrequency energy heats and damages the nerve tissue, interrupting pain transmission. Pain relief from RFA can last from six months to two years or more. As nerves regenerate, the procedure can be repeated if needed."
+    },
+    {
+      "id": "procedure_scs",
+      "title": "Spinal Cord Stimulation (SCS)",
+      "content": "Spinal cord stimulation (SCS) is an advanced, reversible therapy for chronic pain that does not respond to other treatments. It uses a small implanted device to deliver mild electrical impulses to the spinal cord, which interfere with pain signals before they reach the brain. SCS is effective for failed back surgery syndrome, complex regional pain syndrome, neuropathic pain, and other refractory chronic pain conditions. The process begins with a trial period during which a temporary device is placed to evaluate effectiveness before permanent implantation. Modern SCS systems offer multiple stimulation modes including traditional paresthesia-based stimulation and newer high-frequency or burst stimulation, which do not produce the tingling sensation. SCS can significantly reduce pain levels and improve quality of life."
+    },
+    {
+      "id": "procedure_kyphoplasty",
+      "title": "Kyphoplasty",
+      "content": "Kyphoplasty is a minimally invasive procedure used to treat vertebral compression fractures, most commonly caused by osteoporosis, cancer, or trauma. During the procedure, a small balloon is inserted into the fractured vertebra and inflated to restore height and create a cavity. The balloon is then deflated and the cavity is filled with bone cement to stabilize the fracture. Kyphoplasty relieves pain rapidly, often within 24 to 48 hours, and can restore vertebral height and correct spinal deformity. The procedure is performed under fluoroscopic guidance and typically requires only a short recovery period. It is an important alternative to prolonged bed rest and medication for patients with painful vertebral fractures."
+    },
+    {
+      "id": "procedure_vertiflex",
+      "title": "Vertiflex (Interspinous Spacer)",
+      "content": "The Vertiflex Superion interspinous spacer is a minimally invasive implant used to treat lumbar spinal stenosis. It is placed between the spinous processes (the bony projections at the back of the vertebrae) to hold the spine in a slightly flexed position, which relieves pressure on compressed nerves in the spinal canal. The procedure is performed through a small incision under local anesthesia and sedation, with most patients going home the same day. It is an alternative for patients who are not candidates for or who wish to avoid more invasive surgery. The Vertiflex spacer can provide significant and durable relief from the leg pain, numbness, and cramping caused by lumbar spinal stenosis."
+    },
+    {
+      "id": "procedure_peripheral_nerve_stimulator",
+      "title": "Peripheral Nerve Stimulation (PNS)",
+      "content": "Peripheral nerve stimulation (PNS) is a procedure in which a small electrode is placed near a specific peripheral nerve to deliver electrical impulses that interrupt pain signals. Unlike spinal cord stimulation, which targets the spinal cord, PNS targets individual nerves outside the spinal cord. It is used to treat conditions including occipital neuralgia, trigeminal neuralgia, complex regional pain syndrome, and localized neuropathic pain. The device can be implanted permanently after a successful trial period. PNS offers a targeted approach to nerve pain with minimal systemic side effects and can provide significant, long-lasting relief."
+    },
+    {
+      "id": "procedure_tumour_ablation",
+      "title": "Tumour Ablation",
+      "content": "Tumour ablation is a minimally invasive procedure used to destroy tumor tissue and relieve cancer-related pain, particularly in patients with painful bone metastases or soft tissue tumors. Techniques include radiofrequency ablation, microwave ablation, and cryoablation (freezing). The procedure is performed under imaging guidance (CT or fluoroscopy) and delivers energy directly to the tumor to heat or freeze and destroy it. Tumour ablation can provide significant and rapid pain relief for cancer patients who are not candidates for surgery or whose tumors have not responded to other treatments. It is part of a comprehensive palliative pain management approach."
+    },
+    {
+      "id": "procedure_nerve_blocks",
+      "title": "Nerve Blocks",
+      "content": "Nerve blocks are injections of anesthetic and sometimes anti-inflammatory medication near specific nerves to interrupt pain signals. They can be diagnostic (to confirm a nerve is the pain source) or therapeutic (to provide relief). Common nerve blocks performed at Mainland Pain Management Associates include medial branch blocks for facet joint pain, occipital nerve blocks for headaches, celiac plexus blocks for abdominal pain, superior hypogastric plexus blocks for pelvic pain, stellate ganglion blocks for upper extremity pain and CRPS, and lumbar sympathetic blocks. Nerve blocks may provide short-term or long-term relief depending on the medication used and the condition being treated."
+    },
+    {
+      "id": "procedure_facet_injections",
+      "title": "Facet Joint Injections",
+      "content": "Facet joints are the small joints located between adjacent vertebrae along the back of the spine. They provide stability and allow spinal motion. Facet joint disease, or facet syndrome, occurs when these joints become inflamed or arthritic, causing localized back or neck pain that may radiate into the buttocks, hips, or shoulders. Facet joint injections deliver corticosteroid and local anesthetic directly into the joint to reduce inflammation and pain. They are performed under fluoroscopic guidance and can provide diagnostic confirmation as well as therapeutic relief. If facet injections provide good but temporary relief, radiofrequency ablation of the medial branch nerves is typically the next step for longer-lasting results."
+    },
+    {
+      "id": "procedure_trigger_point",
+      "title": "Trigger Point Injections",
+      "content": "Trigger points are tight, irritable knots of muscle that form when muscle fibers fail to relax after contraction. They can cause localized pain and referred pain in distant areas. Trigger point injections involve inserting a small needle directly into the trigger point and injecting a local anesthetic, sometimes combined with a corticosteroid, to relax the muscle and relieve pain. These injections are used to treat myofascial pain syndrome, tension headaches, fibromyalgia, and other musculoskeletal pain conditions. Most patients experience immediate relief following the injection. The procedure is quick, minimally invasive, and can be repeated as needed."
+    },
+    {
+      "id": "procedure_intrathecal_pump",
+      "title": "Intrathecal Drug Delivery (Pain Pump)",
+      "content": "An intrathecal drug delivery system, also called a pain pump, delivers pain medication directly into the fluid surrounding the spinal cord through a surgically implanted pump and catheter. Because medication is delivered directly to the target site, much smaller doses are needed compared to oral medications, reducing systemic side effects. Pain pumps are used for patients with severe chronic pain, cancer pain, or spasticity who have not responded to other treatments. The system is programmable and refillable by the physician. A trial period is conducted before permanent implantation to evaluate effectiveness. Pain pumps can dramatically improve pain control and quality of life for carefully selected patients."
+    },
+    {
+      "id": "procedure_botox",
+      "title": "Botox for Chronic Migraine and Pain",
+      "content": "Botulinum toxin (Botox) injections are FDA-approved for the prevention of chronic migraines, defined as headaches occurring 15 or more days per month. Botox works by blocking the release of neurotransmitters involved in pain signal transmission. Injections are given at multiple sites around the head and neck every 12 weeks. Many patients experience a significant reduction in headache frequency and severity. Botox is also used off-label for certain musculoskeletal pain conditions, spasticity, and myofascial pain. The injections are well-tolerated with minimal side effects and do not require downtime."
+    },
+    {
+      "id": "procedure_joint_injections",
+      "title": "Joint Injections (Knees, Hips, Shoulders)",
+      "content": "Joint injections deliver anti-inflammatory corticosteroids or viscosupplementation (hyaluronic acid) directly into painful joints such as the knee, hip, or shoulder. Corticosteroid injections reduce inflammation and provide rapid pain relief for arthritis, bursitis, and other joint conditions. Hyaluronic acid injections (also called gel injections or visco injections) lubricate the joint and reduce pain in osteoarthritis, particularly of the knee. Injections are performed under ultrasound or fluoroscopic guidance for accuracy. They are a minimally invasive option before considering surgical interventions and can be repeated periodically to maintain pain control."
+    },
+    {
+      "id": "procedure_celiac_plexus_block",
+      "title": "Celiac Plexus Block",
+      "content": "A celiac plexus block is an injection of local anesthetic and sometimes a neurolytic agent into the celiac plexus, a network of nerves in the upper abdomen that transmits pain signals from the abdominal organs. It is used to treat severe chronic abdominal pain, particularly from pancreatic cancer and chronic pancreatitis. The procedure can provide significant and long-lasting pain relief, reducing or eliminating the need for high-dose opioid medications. It is performed under fluoroscopic or CT guidance with the patient lying face down. A neurolytic block using alcohol is used for cancer pain and can provide relief lasting months."
+    },
+    {
+      "id": "procedure_si_joint",
+      "title": "SI Joint Injections",
+      "content": "Sacroiliac (SI) joint injections are performed to diagnose and treat pain arising from the SI joints. The injection delivers corticosteroid medication directly into the joint under fluoroscopic guidance to reduce inflammation and pain. If diagnostic SI joint injections confirm the joint as the pain source, radiofrequency ablation of the SI joint nerves can be performed for longer-lasting relief. SI joint pain is a significant and often underdiagnosed cause of lower back and buttock pain. SI joint injections can provide significant pain relief and improve patients' ability to perform daily activities."
+    },
+    {
+      "id": "medications_overview",
+      "title": "Medications Used in Pain Management",
+      "content": "Medications are an important component of comprehensive pain management. Common classes include: NSAIDs (non-steroidal anti-inflammatory drugs) such as ibuprofen and naproxen, which reduce inflammation and mild to moderate pain. Acetaminophen, which relieves pain without anti-inflammatory effects. Anticonvulsants such as gabapentin and pregabalin, which are effective for neuropathic pain. Antidepressants such as duloxetine and amitriptyline, which can reduce chronic pain and improve sleep. Muscle relaxants for muscle spasm-related pain. Topical agents such as lidocaine patches and diclofenac gel. Corticosteroids for acute inflammation. Opioid medications, which may be used selectively for severe pain under careful monitoring and risk management. At Mainland Pain Management Associates, medication management is integrated with interventional procedures for a comprehensive, multimodal approach to pain relief."
+    },
+    {
+      "id": "physical_therapy",
+      "title": "Physical Therapy and Rehabilitation",
+      "content": "Physical therapy is an important component of pain management. A physical therapist designs exercise programs to strengthen muscles supporting painful joints, improve flexibility and range of motion, correct posture and movement patterns, and reduce pain and disability. Physical therapy can be combined with interventional procedures for optimal results. For example, an epidural steroid injection may provide enough pain relief to allow a patient to actively participate in physical therapy, which addresses the underlying musculoskeletal issues. Exercises such as core strengthening, stretching, and aerobic conditioning are important long-term strategies for managing chronic back pain, neck pain, and joint pain."
+    },
+    {
+      "id": "psychological_support",
+      "title": "Psychological Support and Pain",
+      "content": "Chronic pain has a profound effect on mental health. Depression, anxiety, sleep disorders, and reduced social function commonly accompany chronic pain. Psychological approaches such as cognitive behavioral therapy (CBT), mindfulness-based stress reduction, and biofeedback can help patients develop coping skills, reduce the emotional impact of pain, and improve function. These approaches do not replace medical treatment but are an important part of a comprehensive pain management program. Treating the psychological aspects of chronic pain often improves outcomes from interventional procedures and medications."
+    },
+    {
+      "id": "pain_management_goals",
+      "title": "Goals of Pain Management",
+      "content": "The primary goals of pain management at Mainland Pain Management Associates are to reduce pain to a tolerable level, improve physical function and mobility, enhance quality of life and daily activities, reduce dependence on medications, help patients return to work and social activities, and address the psychological impact of chronic pain. Pain management is not always about achieving complete elimination of pain, but about meaningful improvement that allows patients to live fuller, more active lives. Dr. Mangla develops individualized treatment plans tailored to each patient's specific condition, goals, and lifestyle."
+    },
+    {
+      "id": "interventional_vs_surgical",
+      "title": "Interventional Pain Management vs. Surgery",
+      "content": "Interventional pain management procedures are minimally invasive alternatives to surgery for many chronic pain conditions. They carry fewer risks, require shorter recovery times, and can be repeated or adjusted as needed. Examples include epidural steroid injections, radiofrequency ablation, spinal cord stimulation, and nerve blocks. Surgery may be necessary for conditions involving structural instability, severe nerve compression, or tumors, but many patients achieve significant pain relief through interventional procedures and are able to avoid or delay surgery. Dr. Mangla works with patients to explore all conservative and interventional options before surgery is considered."
+    },
+    {
+      "id": "what_to_expect",
+      "title": "What to Expect at Your Pain Management Appointment",
+      "content": "At your first visit to Mainland Pain Management Associates, Dr. Mangla will conduct a thorough evaluation including a detailed medical history, review of prior imaging and test results, physical examination, and assessment of your pain's location, quality, severity, and impact on daily life. Based on this evaluation, Dr. Mangla will develop a personalized treatment plan. This may include diagnostic procedures, therapeutic injections, medication management, referrals for physical therapy, or advanced interventional treatments. Follow-up appointments monitor your progress and adjust the treatment plan as needed. Patients are encouraged to ask questions and participate actively in their care."
+    },
+    {
+      "id": "insurance_referrals",
+      "title": "Insurance and Referrals",
+      "content": "Mainland Pain Management Associates works with most major insurance plans. Many pain management procedures require prior authorization from your insurance company. It is important to check with your insurance provider about coverage for specific procedures before your appointment. Some insurers may require a referral from your primary care physician or specialist before approving pain management consultations or procedures. Please call the clinic at (609) 788-3625 or email mainlandpain@mainland-pain.com for questions about insurance and referrals."
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "content": "Q: Do I need a referral to see Dr. Mangla? A: Referral requirements depend on your insurance plan. Please check with your insurer or call the clinic at (609) 788-3625. Q: How long does a pain management appointment take? A: Initial consultations typically last 30 to 60 minutes. Procedure appointments vary by treatment. Q: Are pain management procedures covered by insurance? A: Most procedures are covered by major insurance plans with prior authorization. Contact the clinic for details. Q: How soon will I feel relief after a procedure? A: Relief timing varies. Epidural steroid injections may take a few days for full effect. Kyphoplasty often provides relief within 24 to 48 hours. Radiofrequency ablation may take one to three weeks for full benefit. Spinal cord stimulation involves a trial period before permanent implantation. Q: Are the procedures safe? A: All procedures are performed by Dr. Mangla with fluoroscopic or ultrasound guidance and carry low risk when performed by an experienced specialist. Risks and benefits will be discussed thoroughly before any procedure. Q: Can I drive myself home after a procedure? A: Most procedures require someone to drive you home due to sedation or local anesthetic. Please arrange a ride for your procedure appointment. Q: How do I schedule an appointment? A: Call (609) 788-3625, email mainlandpain@mainland-pain.com, or book online at https://drchrono.com/scheduling/offices/dGhpcyBpcyAxNiBjaGFyc8n9rf8yoECPcWT6LluiJUQ=."
     }
   ]
 }
